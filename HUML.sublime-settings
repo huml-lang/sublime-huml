@@ -1,0 +1,23 @@
+{
+    "extensions": ["huml"],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+    "line_numbers": true,
+    "gutter": true,
+    "fold_buttons": true,
+    "fade_fold_buttons": true,
+    "rulers": [],
+    "spell_check": false,
+    "tab_completion": true,
+    "auto_complete": true,
+    "auto_complete_size_limit": 4194304,
+    "auto_complete_delay": 50,
+    "auto_complete_selector": "source - comment",
+    "auto_complete_triggers": [
+        {
+            "selector": "source.huml",
+            "characters": ":"
+        }
+    ]
+}
