@@ -1,0 +1,28 @@
+{
+  "name": "HUML",
+  "description": "Syntax highlighting and language support for HUML (Human-Readable Markup Language)",
+  "author": "Kailash Nadh",
+  "homepage": "https://github.com/huml-lang/huml-sublime",
+  "issues": "https://github.com/huml-lang/huml-sublime/issues",
+  "releases": [
+    {
+      "sublime_text": ">=3000",
+      "platforms": [
+        "*"
+      ],
+      "url": "https://github.com/huml-lang/huml-sublime/releases/download/v0.1.0/HUML.sublime-package",
+      "version": "0.1.0",
+      "date": "2025-05-30 00:00:00"
+    }
+  ],
+  "previous_names": [],
+  "labels": [
+    "language syntax",
+    "markup",
+    "data format",
+    "configuration"
+  ],
+  "readme": "https://github.com/huml-lang/sublime-huml/blob/master/README.md",
+  "donate": null,
+  "buy": null
+}
